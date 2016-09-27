@@ -5,7 +5,7 @@ layout: post
 Last night, I messed up my blog repository which including a useless file. I
 really wanted to delete the last commit, So I googled to find a git command to
 settle this problem. Though google I not only removed the bad commit, but also
-I learned several basic git commands to undo changes that you'd made.
+I learned several basic gdit commands to undo changes that you'd made.
 
 There is a saying that an old pencil is better than a good brain. This was the
 second time I met the problem again and I did not want to spend time on it, so
